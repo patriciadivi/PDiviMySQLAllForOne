@@ -1,1 +1,1 @@
-DELETE FROM order_details WHERE unit_price > 10.0000;
+TRUNCATE order_details;
